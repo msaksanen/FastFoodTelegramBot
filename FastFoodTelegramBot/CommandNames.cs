@@ -20,7 +20,8 @@ namespace FastFoodTelegramBot
         public static string SendGridApiKey { get; set; } = "";
         public static string ServiceMailField { get; set; } = "";
         public static string ServiceMailFrom { get; set; } = "FastFood Service";
-        public static string TGToken { get; set; } ="";
+        public static string TGToken { get; set;} ="";
+
         public static string JsonProdPath { get; set; }  = ProductListRepository<Product>.Path;
         public static string JsonAccPath { get; set; }   = AccListRepos<Account>.Path;
         public static string JsonOrderPath { get; set; } = OrderRepository<Order<ShopCartItem<Product>, Product>>.Path;
