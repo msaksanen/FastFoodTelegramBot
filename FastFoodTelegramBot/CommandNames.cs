@@ -15,12 +15,12 @@ namespace FastFoodTelegramBot
         public const string InpNameL = "Input your last name, please.";
         public const string InpMail = "Input your e-mail, please.";
         public const string InpPayMethod = "Choose your paymethod, please.";
-        public static string ServiceGmail { get; set; } = "nmlservice2022@gmail.com";
-        public static string ServicePwd { get; set; } = "ivjtvgbgckviwoto";
-        public static string SendGridApiKey { get; set; } = "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";
-        public static string ServiceMailField { get; set; } = "fastfoodbot@mail.ru";
+        public static string ServiceGmail { get; set; } = "";
+        public static string ServicePwd { get; set; } = "";
+        public static string SendGridApiKey { get; set; } = "";
+        public static string ServiceMailField { get; set; } = "";
         public static string ServiceMailFrom { get; set; } = "FastFood Service";
-        public static string TGToken { get; set; } = "5202235781:AAGx13pyeOj8A5beMAme48WrCXmsBRqOcZc";
+        public static string TGToken { get; set; } = "";
         public static string JsonProdPath { get; set; }  = ProductListRepository<Product>.Path;
         public static string JsonAccPath { get; set; }   = AccListRepos<Account>.Path;
         public static string JsonOrderPath { get; set; } = OrderRepository<Order<ShopCartItem<Product>, Product>>.Path;
