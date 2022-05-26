@@ -1,0 +1,740 @@
+[Log DEBUG] 26.05.2022 22:17:23
+Additional info. JSON mode. GetByID(). List type: System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]. Object ID: 1788879993.
+============================
+GetByID: object with ID 1788879993  is found. It's Account.
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log INFO] 26.05.2022 22:17:33
+============================
+Telegram Update Type: Message
+ID:1788879993
+Message:opml2007@gmail.com
+Username:jyjyhh
+First Name:VLAD. Last Name:.
+============================
+Thread information:
+Thread ID:         6
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:17:33
+Additional info. JSON mode LoadFileToList(). List type : System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]
+============================
+Object database loaded from Repository JSON file at: C:\Users\wisor\source\repos\FastFoodTelegramBot\FastFoodTelegramBot\FastFoodTelegramBot\bin\Debug\net5.0\AppData\accRepos.json
+============================
+Thread information:
+Thread ID:         6
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:17:33
+Additional info. JSON mode. GetByID(). List type: System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]. Object ID: 1788879993.
+============================
+GetByID: object with ID 1788879993  is found. It's Account.
+============================
+Thread information:
+Thread ID:         6
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:17:33
+Additional info. JSON mode LoadFileToList(). List type : System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]
+============================
+Object database loaded from Repository JSON file at: C:\Users\wisor\source\repos\FastFoodTelegramBot\FastFoodTelegramBot\FastFoodTelegramBot\bin\Debug\net5.0\AppData\accRepos.json
+============================
+Thread information:
+Thread ID:         6
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:17:33
+Additional info. JSON mode. GetByID(). List type: System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]. Object ID: 1788879993.
+============================
+GetByID: object with ID 1788879993  is found. It's Account.
+============================
+Thread information:
+Thread ID:         6
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:17:33
+Additional info. JSON mode LoadFileToList(). List type : System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]
+============================
+Object database loaded from Repository JSON file at: C:\Users\wisor\source\repos\FastFoodTelegramBot\FastFoodTelegramBot\FastFoodTelegramBot\bin\Debug\net5.0\AppData\accRepos.json
+============================
+Thread information:
+Thread ID:         6
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:17:33
+Additional info. JSON mode.UpdateItem(). List type: System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]. Item: Account data. FirstName: VLAD. LastName: Nemtsoff.
+ Email: opml2007@gmail.com. Payment Method: cash. ChatID: 1788879993.
+============================
+UpdateItem: object with ID 1788879993 is found in database. It's Account. It will be replaced with your updated object.
+============================
+Thread information:
+Thread ID:         6
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:17:33
+Additional info. JSON mode SaveListToFile(). List type : System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]
+============================
+Object database List System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account] saved to repository JSON file at: C:\Users\wisor\source\repos\FastFoodTelegramBot\FastFoodTelegramBot\FastFoodTelegramBot\bin\Debug\net5.0\AppData\accRepos.json
+============================
+Thread information:
+Thread ID:         6
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log INFO] 26.05.2022 22:17:40
+============================
+Telegram Update Type: CallbackQuery
+ID:1788879993
+Message:/up
+Username:jyjyhh
+First Name:FastFood_Bot. Last Name:.
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:17:40
+Additional info. JSON mode LoadFileToList(). List type : System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]
+============================
+Object database loaded from Repository JSON file at: C:\Users\wisor\source\repos\FastFoodTelegramBot\FastFoodTelegramBot\FastFoodTelegramBot\bin\Debug\net5.0\AppData\accRepos.json
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:17:40
+Additional info. JSON mode. GetByID(). List type: System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]. Object ID: 1788879993.
+============================
+GetByID: object with ID 1788879993  is found. It's Account.
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:17:40
+Additional info. JSON mode LoadFileToList(). List type : System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]
+============================
+Object database loaded from Repository JSON file at: C:\Users\wisor\source\repos\FastFoodTelegramBot\FastFoodTelegramBot\FastFoodTelegramBot\bin\Debug\net5.0\AppData\accRepos.json
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:17:40
+Additional info. JSON mode. GetByID(). List type: System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]. Object ID: 1788879993.
+============================
+GetByID: object with ID 1788879993  is found. It's Account.
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log INFO] 26.05.2022 22:17:42
+============================
+Telegram Update Type: CallbackQuery
+ID:1788879993
+Message:/view
+Username:jyjyhh
+First Name:FastFood_Bot. Last Name:.
+============================
+Thread information:
+Thread ID:         6
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:17:42
+Additional info. JSON mode LoadFileToList(). List type : System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]
+============================
+Object database loaded from Repository JSON file at: C:\Users\wisor\source\repos\FastFoodTelegramBot\FastFoodTelegramBot\FastFoodTelegramBot\bin\Debug\net5.0\AppData\accRepos.json
+============================
+Thread information:
+Thread ID:         6
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:17:42
+Additional info. JSON mode. GetByID(). List type: System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]. Object ID: 1788879993.
+============================
+GetByID: object with ID 1788879993  is found. It's Account.
+============================
+Thread information:
+Thread ID:         6
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:17:42
+Additional info. JSON mode LoadFileToList(). List type : System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]
+============================
+Object database loaded from Repository JSON file at: C:\Users\wisor\source\repos\FastFoodTelegramBot\FastFoodTelegramBot\FastFoodTelegramBot\bin\Debug\net5.0\AppData\accRepos.json
+============================
+Thread information:
+Thread ID:         6
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:17:42
+Additional info. JSON mode. GetByID(). List type: System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]. Object ID: 1788879993.
+============================
+GetByID: object with ID 1788879993  is found. It's Account.
+============================
+Thread information:
+Thread ID:         6
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log INFO] 26.05.2022 22:17:45
+============================
+Telegram Update Type: CallbackQuery
+ID:1788879993
+Message:/drink
+Username:jyjyhh
+First Name:FastFood_Bot. Last Name:.
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:17:45
+Additional info. JSON mode LoadFileToList(). List type : System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]
+============================
+Object database loaded from Repository JSON file at: C:\Users\wisor\source\repos\FastFoodTelegramBot\FastFoodTelegramBot\FastFoodTelegramBot\bin\Debug\net5.0\AppData\accRepos.json
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:17:45
+Additional info. JSON mode. GetByID(). List type: System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]. Object ID: 1788879993.
+============================
+GetByID: object with ID 1788879993  is found. It's Account.
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:17:45
+Additional info. JSON mode LoadFileToList(). List type : System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]
+============================
+Object database loaded from Repository JSON file at: C:\Users\wisor\source\repos\FastFoodTelegramBot\FastFoodTelegramBot\FastFoodTelegramBot\bin\Debug\net5.0\AppData\accRepos.json
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:17:45
+Additional info. JSON mode. GetByID(). List type: System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]. Object ID: 1788879993.
+============================
+GetByID: object with ID 1788879993  is found. It's Account.
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:17:45
+Additional info. JSON mode LoadFileToList(). List type : System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]
+============================
+Object database loaded from Repository JSON file at: C:\Users\wisor\source\repos\FastFoodTelegramBot\FastFoodTelegramBot\FastFoodTelegramBot\bin\Debug\net5.0\AppData\accRepos.json
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:17:45
+Additional info. JSON mode. GetByID(). List type: System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]. Object ID: 1788879993.
+============================
+GetByID: object with ID 1788879993  is found. It's Account.
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:17:45
+Additional info. JSON mode LoadFileToList(). List type : System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]
+============================
+Object database loaded from Repository JSON file at: C:\Users\wisor\source\repos\FastFoodTelegramBot\FastFoodTelegramBot\FastFoodTelegramBot\bin\Debug\net5.0\AppData\accRepos.json
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:17:45
+Additional info. JSON mode.UpdateItem(). List type: System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]. Item: Account data. FirstName: VLAD. LastName: Nemtsoff.
+ Email: opml2007@gmail.com. Payment Method: cash. ChatID: 1788879993.
+============================
+UpdateItem: object with ID 1788879993 is found in database. It's Account. It will be replaced with your updated object.
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:17:45
+Additional info. JSON mode SaveListToFile(). List type : System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]
+============================
+Object database List System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account] saved to repository JSON file at: C:\Users\wisor\source\repos\FastFoodTelegramBot\FastFoodTelegramBot\FastFoodTelegramBot\bin\Debug\net5.0\AppData\accRepos.json
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:17:45
+Additional info. JSON mode LoadFileToList(). List type : System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]
+============================
+Object database loaded from Repository JSON file at: C:\Users\wisor\source\repos\FastFoodTelegramBot\FastFoodTelegramBot\FastFoodTelegramBot\bin\Debug\net5.0\AppData\accRepos.json
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:17:45
+Additional info. JSON mode. GetByID(). List type: System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]. Object ID: 1788879993.
+============================
+GetByID: object with ID 1788879993  is found. It's Account.
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log INFO] 26.05.2022 22:17:49
+============================
+Telegram Update Type: CallbackQuery
+ID:1788879993
+Message:/cart id*d4cf3dbc-b2fb-4326-9105-46d99ffb5352
+Username:jyjyhh
+First Name:FastFood_Bot. Last Name:.
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:17:49
+Additional info. JSON mode LoadFileToList(). List type : System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]
+============================
+Object database loaded from Repository JSON file at: C:\Users\wisor\source\repos\FastFoodTelegramBot\FastFoodTelegramBot\FastFoodTelegramBot\bin\Debug\net5.0\AppData\accRepos.json
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:17:49
+Additional info. JSON mode. GetByID(). List type: System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]. Object ID: 1788879993.
+============================
+GetByID: object with ID 1788879993  is found. It's Account.
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:17:49
+Additional info. JSON mode LoadFileToList(). List type : System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]
+============================
+Object database loaded from Repository JSON file at: C:\Users\wisor\source\repos\FastFoodTelegramBot\FastFoodTelegramBot\FastFoodTelegramBot\bin\Debug\net5.0\AppData\accRepos.json
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:17:49
+Additional info. JSON mode. GetByID(). List type: System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]. Object ID: 1788879993.
+============================
+GetByID: object with ID 1788879993  is found. It's Account.
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log INFO] 26.05.2022 22:18:06
+============================
+Telegram Update Type: Message
+ID:1788879993
+Message:2
+Username:jyjyhh
+First Name:VLAD. Last Name:.
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:18:06
+Additional info. JSON mode LoadFileToList(). List type : System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]
+============================
+Object database loaded from Repository JSON file at: C:\Users\wisor\source\repos\FastFoodTelegramBot\FastFoodTelegramBot\FastFoodTelegramBot\bin\Debug\net5.0\AppData\accRepos.json
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:18:06
+Additional info. JSON mode. GetByID(). List type: System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]. Object ID: 1788879993.
+============================
+GetByID: object with ID 1788879993  is found. It's Account.
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:18:06
+Additional info. JSON mode LoadFileToList(). List type : System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]
+============================
+Object database loaded from Repository JSON file at: C:\Users\wisor\source\repos\FastFoodTelegramBot\FastFoodTelegramBot\FastFoodTelegramBot\bin\Debug\net5.0\AppData\accRepos.json
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:18:06
+Additional info. JSON mode. GetByID(). List type: System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]. Object ID: 1788879993.
+============================
+GetByID: object with ID 1788879993  is found. It's Account.
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:18:06
+Additional info. JSON mode LoadFileToList(). List type : System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]
+============================
+Object database loaded from Repository JSON file at: C:\Users\wisor\source\repos\FastFoodTelegramBot\FastFoodTelegramBot\FastFoodTelegramBot\bin\Debug\net5.0\AppData\accRepos.json
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:18:06
+Additional info. JSON mode.UpdateItem(). List type: System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]. Item: Account data. FirstName: VLAD. LastName: Nemtsoff.
+ Email: opml2007@gmail.com. Payment Method: cash. ChatID: 1788879993.
+============================
+UpdateItem: object with ID 1788879993 is found in database. It's Account. It will be replaced with your updated object.
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:18:06
+Additional info. JSON mode SaveListToFile(). List type : System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]
+============================
+Object database List System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account] saved to repository JSON file at: C:\Users\wisor\source\repos\FastFoodTelegramBot\FastFoodTelegramBot\FastFoodTelegramBot\bin\Debug\net5.0\AppData\accRepos.json
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log INFO] 26.05.2022 22:18:13
+============================
+Telegram Update Type: CallbackQuery
+ID:1788879993
+Message:/pizza
+Username:jyjyhh
+First Name:FastFood_Bot. Last Name:.
+============================
+Thread information:
+Thread ID:         12
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:18:13
+Additional info. JSON mode LoadFileToList(). List type : System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]
+============================
+Object database loaded from Repository JSON file at: C:\Users\wisor\source\repos\FastFoodTelegramBot\FastFoodTelegramBot\FastFoodTelegramBot\bin\Debug\net5.0\AppData\accRepos.json
+============================
+Thread information:
+Thread ID:         12
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:18:13
+Additional info. JSON mode. GetByID(). List type: System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]. Object ID: 1788879993.
+============================
+GetByID: object with ID 1788879993  is found. It's Account.
+============================
+Thread information:
+Thread ID:         12
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:18:13
+Additional info. JSON mode LoadFileToList(). List type : System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]
+============================
+Object database loaded from Repository JSON file at: C:\Users\wisor\source\repos\FastFoodTelegramBot\FastFoodTelegramBot\FastFoodTelegramBot\bin\Debug\net5.0\AppData\accRepos.json
+============================
+Thread information:
+Thread ID:         12
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:18:13
+Additional info. JSON mode. GetByID(). List type: System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]. Object ID: 1788879993.
+============================
+GetByID: object with ID 1788879993  is found. It's Account.
+============================
+Thread information:
+Thread ID:         12
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:18:13
+Additional info. JSON mode LoadFileToList(). List type : System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]
+============================
+Object database loaded from Repository JSON file at: C:\Users\wisor\source\repos\FastFoodTelegramBot\FastFoodTelegramBot\FastFoodTelegramBot\bin\Debug\net5.0\AppData\accRepos.json
+============================
+Thread information:
+Thread ID:         12
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:18:13
+Additional info. JSON mode. GetByID(). List type: System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]. Object ID: 1788879993.
+============================
+GetByID: object with ID 1788879993  is found. It's Account.
+============================
+Thread information:
+Thread ID:         12
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:18:13
+Additional info. JSON mode LoadFileToList(). List type : System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]
+============================
+Object database loaded from Repository JSON file at: C:\Users\wisor\source\repos\FastFoodTelegramBot\FastFoodTelegramBot\FastFoodTelegramBot\bin\Debug\net5.0\AppData\accRepos.json
+============================
+Thread information:
+Thread ID:         12
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:18:13
+Additional info. JSON mode.UpdateItem(). List type: System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]. Item: Account data. FirstName: VLAD. LastName: Nemtsoff.
+ Email: opml2007@gmail.com. Payment Method: cash. ChatID: 1788879993.
+============================
+UpdateItem: object with ID 1788879993 is found in database. It's Account. It will be replaced with your updated object.
+============================
+Thread information:
+Thread ID:         12
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:18:13
+Additional info. JSON mode SaveListToFile(). List type : System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]
+============================
+Object database List System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account] saved to repository JSON file at: C:\Users\wisor\source\repos\FastFoodTelegramBot\FastFoodTelegramBot\FastFoodTelegramBot\bin\Debug\net5.0\AppData\accRepos.json
+============================
+Thread information:
+Thread ID:         12
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:18:14
+Additional info. JSON mode LoadFileToList(). List type : System.Collections.Generic.List`1[FastFoodTelegramBot.Models.Account]
+============================
+Object database loaded from Repository JSON file at: C:\Users\wisor\source\repos\FastFoodTelegramBot\FastFoodTelegramBot\FastFoodTelegramBot\bin\Debug\net5.0\AppData\accRepos.json
+============================
+Thread information:
+Thread ID:         12
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================

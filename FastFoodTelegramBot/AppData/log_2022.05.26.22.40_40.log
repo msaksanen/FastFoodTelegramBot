@@ -1,0 +1,372 @@
+[Log INFO] 26.05.2022 22:40:23
+============================
+Telegram Update Type: CallbackQuery
+ID:406863197
+Message:/burger
+Username:
+First Name:FastFood_Bot. Last Name:.
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:40:23
+Additional info. DBase mode GetByID(). Dbase:Server=(localdb)\mssqllocaldb;AttachDbFilename='|DataDirectory|AppData\FFoodAccdb.mdf';Database=FFoodAccdb;Trusted_Connection=True;
+============================
+GetByID: object with ID 406863197 is found. It's Account.
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:40:23
+Additional info. DBase mode GetByID(). Dbase:Server=(localdb)\mssqllocaldb;AttachDbFilename='|DataDirectory|AppData\FFoodAccdb.mdf';Database=FFoodAccdb;Trusted_Connection=True;
+============================
+GetByID: object with ID 406863197 is found. It's Account.
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:40:23
+Additional info. DBase mode GetByID(). Dbase:Server=(localdb)\mssqllocaldb;AttachDbFilename='|DataDirectory|AppData\FFoodAccdb.mdf';Database=FFoodAccdb;Trusted_Connection=True;
+============================
+GetByID: object with ID 406863197 is found. It's Account.
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:40:23
+Additional info. DBase mode UpdateItem(). Dbase:Server=(localdb)\mssqllocaldb;AttachDbFilename='|DataDirectory|AppData\FFoodAccdb.mdf';Database=FFoodAccdb;Trusted_Connection=True;
+============================
+Update Item: object with ID Account data. FirstName: Mike. LastName: Nemtsov.
+ Email: nemtsov.ml@yandex.ru. Payment Method: cash. ChatID: 406863197 is found in database. It's Account. It will be replaced with new object.
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:40:23
+Additional info. DBase mode GetByID(). Dbase:Server=(localdb)\mssqllocaldb;AttachDbFilename='|DataDirectory|AppData\FFoodAccdb.mdf';Database=FFoodAccdb;Trusted_Connection=True;
+============================
+GetByID: object with ID 406863197 is found. It's Account.
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log INFO] 26.05.2022 22:40:26
+============================
+Telegram Update Type: CallbackQuery
+ID:406863197
+Message:/cart id*2c964c9f-500b-42c6-ba42-ae04474f53e7
+Username:
+First Name:FastFood_Bot. Last Name:.
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:40:26
+Additional info. DBase mode GetByID(). Dbase:Server=(localdb)\mssqllocaldb;AttachDbFilename='|DataDirectory|AppData\FFoodAccdb.mdf';Database=FFoodAccdb;Trusted_Connection=True;
+============================
+GetByID: object with ID 406863197 is found. It's Account.
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:40:26
+Additional info. DBase mode GetByID(). Dbase:Server=(localdb)\mssqllocaldb;AttachDbFilename='|DataDirectory|AppData\FFoodAccdb.mdf';Database=FFoodAccdb;Trusted_Connection=True;
+============================
+GetByID: object with ID 406863197 is found. It's Account.
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log INFO] 26.05.2022 22:40:31
+============================
+Telegram Update Type: Message
+ID:406863197
+Message:2
+Username:
+First Name:Mike. Last Name:N..
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:40:31
+Additional info. DBase mode GetByID(). Dbase:Server=(localdb)\mssqllocaldb;AttachDbFilename='|DataDirectory|AppData\FFoodAccdb.mdf';Database=FFoodAccdb;Trusted_Connection=True;
+============================
+GetByID: object with ID 406863197 is found. It's Account.
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:40:31
+Additional info. DBase mode GetByID(). Dbase:Server=(localdb)\mssqllocaldb;AttachDbFilename='|DataDirectory|AppData\FFoodAccdb.mdf';Database=FFoodAccdb;Trusted_Connection=True;
+============================
+GetByID: object with ID 406863197 is found. It's Account.
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:40:31
+Additional info. DBase mode UpdateItem(). Dbase:Server=(localdb)\mssqllocaldb;AttachDbFilename='|DataDirectory|AppData\FFoodAccdb.mdf';Database=FFoodAccdb;Trusted_Connection=True;
+============================
+Update Item: object with ID Account data. FirstName: Mike. LastName: Nemtsov.
+ Email: nemtsov.ml@yandex.ru. Payment Method: cash. ChatID: 406863197 is found in database. It's Account. It will be replaced with new object.
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log INFO] 26.05.2022 22:40:34
+============================
+Telegram Update Type: Message
+ID:406863197
+Message:View Cart
+Username:
+First Name:Mike. Last Name:N..
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:40:34
+Additional info. DBase mode GetByID(). Dbase:Server=(localdb)\mssqllocaldb;AttachDbFilename='|DataDirectory|AppData\FFoodAccdb.mdf';Database=FFoodAccdb;Trusted_Connection=True;
+============================
+GetByID: object with ID 406863197 is found. It's Account.
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:40:34
+Additional info. DBase mode GetByID(). Dbase:Server=(localdb)\mssqllocaldb;AttachDbFilename='|DataDirectory|AppData\FFoodAccdb.mdf';Database=FFoodAccdb;Trusted_Connection=True;
+============================
+GetByID: object with ID 406863197 is found. It's Account.
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log INFO] 26.05.2022 22:40:40
+============================
+Telegram Update Type: Message
+ID:406863197
+Message:Order
+Username:
+First Name:Mike. Last Name:N..
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:40:40
+Additional info. DBase mode GetByID(). Dbase:Server=(localdb)\mssqllocaldb;AttachDbFilename='|DataDirectory|AppData\FFoodAccdb.mdf';Database=FFoodAccdb;Trusted_Connection=True;
+============================
+GetByID: object with ID 406863197 is found. It's Account.
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:40:40
+Additional info. DBase mode GetByID(). Dbase:Server=(localdb)\mssqllocaldb;AttachDbFilename='|DataDirectory|AppData\FFoodAccdb.mdf';Database=FFoodAccdb;Trusted_Connection=True;
+============================
+GetByID: object with ID 406863197 is found. It's Account.
+============================
+Thread information:
+Thread ID:         7
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log INFO] 26.05.2022 22:40:43
+============================
+Telegram Update Type: CallbackQuery
+ID:406863197
+Message:/makeorder
+Username:
+First Name:FastFood_Bot. Last Name:.
+============================
+Thread information:
+Thread ID:         13
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:40:43
+Additional info. DBase mode GetByID(). Dbase:Server=(localdb)\mssqllocaldb;AttachDbFilename='|DataDirectory|AppData\FFoodAccdb.mdf';Database=FFoodAccdb;Trusted_Connection=True;
+============================
+GetByID: object with ID 406863197 is found. It's Account.
+============================
+Thread information:
+Thread ID:         13
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:40:43
+Additional info. DBase mode GetByID(). Dbase:Server=(localdb)\mssqllocaldb;AttachDbFilename='|DataDirectory|AppData\FFoodAccdb.mdf';Database=FFoodAccdb;Trusted_Connection=True;
+============================
+GetByID: object with ID 406863197 is found. It's Account.
+============================
+Thread information:
+Thread ID:         13
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:40:44
+Additional info. DBase mode AddItemInDb(). Item type: FastFoodTelegramBot.Models.Order`2[FastFoodTelegramBot.Models.ShopCartItem`1[FastFoodTelegramBot.Models.Product],FastFoodTelegramBot.Models.Product].
+============================
+New object Order`2  with ID 8d8cd6f9-0b73-4c11-b89b-44c265993826 is created and put in DBase file at:
+Server=(localdb)\mssqllocaldb;AttachDbFilename='|DataDirectory|AppData\FFoodOrderdb.mdf';Database=FFoodOrderdb;Trusted_Connection=True;
+============================
+Thread information:
+Thread ID:         13
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:40:45
+Additional info. From:"FastFood Service" <fastfoodbot@mail.ru>. To:nemtsov.ml@yandex.ru. Subject: FastFoodBot: Order created - 26.05.2022 22:40:43.
+============================
+Email has been sent
+============================
+Thread information:
+Thread ID:         16
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:40:49
+Additional info. From:"FastFood Service" <fastfoodbot@mail.ru>. To:nemtsov.ml@yandex.ru. Subject: FastFoodBot: Order packaged - 26.05.2022 22:40:43
+============================
+Email has been sent
+============================
+Thread information:
+Thread ID:         16
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:40:54
+Additional info. From:"FastFood Service" <fastfoodbot@mail.ru>. To:nemtsov.ml@yandex.ru. Subject: FastFoodBot: Order deliveried - 26.05.2022 22:40:43
+============================
+Email has been sent
+============================
+Thread information:
+Thread ID:         4
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
+[Log DEBUG] 26.05.2022 22:40:55
+Additional info. DBase mode GetByID(). Dbase:Server=(localdb)\mssqllocaldb;AttachDbFilename='|DataDirectory|AppData\FFoodAccdb.mdf';Database=FFoodAccdb;Trusted_Connection=True;
+============================
+GetByID: object with ID 406863197 is found. It's Account.
+============================
+Thread information:
+Thread ID:         15
+Thread State:      Background
+Thread Priority:   Normal
+Is thread alive:   True
+Background:        True
+Thread Pool:       True
+============================
