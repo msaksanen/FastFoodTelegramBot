@@ -21,7 +21,7 @@ namespace FastFoodTelegramBot.Utilities
             CommandUserStatus st = CmdUserStatusRepos<CommandUserStatus>.GetStatusById(foundAccount.ChatId);
             st.isMailSent = false;
             // Your SendGrid API Key you created above.
-           // string apiKey = "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";
+          
 
             // Create an instance of the SendGrid Mail Client using the valid API Key
             var client = new SendGridClient(CommandNames.SendGridApiKey);
