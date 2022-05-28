@@ -25,6 +25,7 @@ namespace FastFoodTelegramBot.Models
         public bool IsPromo { get; set; }
         public string PromoCondition { get; set; }
         public int ShowPicInCat { get; set; } = 1;
+        public string AddProperty { get; set; }
 
         //public Product():base()
         //{
@@ -32,7 +33,7 @@ namespace FastFoodTelegramBot.Models
         //}
         public override string ToString()
         {
-            return "Product category: " + ShowCategory + ".\nName: " + Name + ".\nDescription: " + Description  +"\nWeight: " + Weight + " gr.\nPrice: " + Price + " BYN.";
+            return "Product category: " + ShowCategory + ".\nName: " + Name + ".\nDescription: " + Description  +"\nWeight: " + Weight + " gr.\n" + AddProperty+ "\nPrice: " + Price + " BYN.";
         }
     }
 }
