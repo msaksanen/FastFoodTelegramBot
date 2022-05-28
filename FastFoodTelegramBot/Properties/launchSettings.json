@@ -1,7 +1,8 @@
 {
   "profiles": {
     "FastFoodTelegramBot": {
-      "commandName": "Project"
+      "commandName": "Project",
+      "commandLineArgs": "j"
     }
   }
 }

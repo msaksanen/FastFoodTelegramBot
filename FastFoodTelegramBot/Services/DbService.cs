@@ -59,11 +59,22 @@ namespace FastFoodTelegramBot.Services
             string dbname = db.Database.GetConnectionString();
             string listname = list.GetType().Name;
             string str = default;
+            List<Product> sortprodlist = default;
 
             try
             {
                 //list.Clear();
                 var lst = db.SQL.ToList();
+                var sel = lst.FindAll(p => p.GetType().Name == "Product");
+                    
+                if (sel!=null && sel is List<Product> prodlist)
+                {
+                    prodlist.Sort(delegate(Product prod1, Product prod2) { return prod1.Name.CompareTo(prod2.Name); } );
+                    sortprodlist = prodlist;
+                }
+                if (sortprodlist != null && sortprodlist is List<T> templist)
+                    lst = templist;
+
                 str = string.Format($"Object database loaded to List {listname} from DBase file at: " + dbname);
                 Console.WriteLine(str);
                 LogHelper.Debug(str, $"DBase mode LoadDBToList(). List type: {list}.");

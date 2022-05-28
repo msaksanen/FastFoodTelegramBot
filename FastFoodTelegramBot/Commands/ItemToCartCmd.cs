@@ -99,15 +99,22 @@ namespace FastFoodTelegramBot.Commands
                         return;
 
                     default:
-                        await botClient.SendPhotoAsync(
-                            chatId: id,
-                            photo: tempProd.PictureURL,
-                            caption: $"<b>{tempProd.Name}</b>\n{tempProd.ShowCategory}\n{tempProd.Description}\n" +
-                            $"Weight: {tempProd.Weight} g\nPrice: {tempProd.Price} BYN\n" +
-                            $"Would you like to add the product to cart?\nInput integer number of servings you wish to add.",
-                            parseMode: ParseMode.Html,
-                            replyMarkup: KbdMaker.InKeyboard(CommandNames.SystemKbd)
-                           );
+                       await botClient.SendPhotoAsync(
+                             chatId: id,
+                             photo: tempProd.PictureURL,
+                             caption: $"{tempProd.ToString()}\n" +
+                             "Would you like to add the product to cart ?\nInput integer number of servings you wish to add.",
+                             replyMarkup: KbdMaker.InKeyboard(CommandNames.SystemKbd));
+
+                      //await botClient.SendPhotoAsync(
+                      //      chatId: id,
+                      //      photo: tempProd.PictureURL,
+                      //      caption: $"<b>{tempProd.Name}</b>\n{tempProd.ShowCategory}\n{tempProd.Description}\n" +
+                      //      $"Weight: {tempProd.Weight} g\nPrice: {tempProd.Price} BYN\n" +
+                      //      $"Would you like to add the product to cart?\nInput integer number of servings you wish to add.",
+                      //      parseMode: ParseMode.Html,
+                      //      replyMarkup: KbdMaker.InKeyboard(CommandNames.SystemKbd)
+                      //     );
                         return;
                 }
             } 

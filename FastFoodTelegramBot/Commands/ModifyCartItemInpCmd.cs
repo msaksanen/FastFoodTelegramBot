@@ -105,13 +105,20 @@ namespace FastFoodTelegramBot.Commands
 
                         default:
                             await botClient.SendPhotoAsync(
-                                chatId: id,
-                                photo: tempProd.PictureURL,
-                                caption: $"<b>{tempProd.Name}</b>\n{tempProd.ShowCategory}\n{tempProd.Description}\n" +
-                                $"Weight: {tempProd.Weight} g\nPrice: {tempProd.Price} BYN\n{tempCartItem}\n" +
-                                $"Would you like to modify product quantity in the cart?\nInput integer number of servings you wish 0 to remove completely.",
-                                parseMode: ParseMode.Html,
-                                replyMarkup: KbdMaker.InKeyboard(CommandNames.SystemKbd));
+                                  chatId: id,
+                                  photo: tempProd.PictureURL,
+                                  caption: $"{tempProd.ToString()}\n" +
+                                  "Would you like to modify product quantity in the cart?\nInput integer number of servings you wish 0 to remove completely.",
+                                   replyMarkup: KbdMaker.InKeyboard(CommandNames.SystemKbd));
+
+                            //await botClient.SendPhotoAsync(
+                            //    chatId: id,
+                            //    photo: tempProd.PictureURL,
+                            //    caption: $"<b>{tempProd.Name}</b>\n{tempProd.ShowCategory}\n{tempProd.Description}\n" +
+                            //    $"Weight: {tempProd.Weight} g\nPrice: {tempProd.Price} BYN\n{tempCartItem}\n" +
+                            //    $"Would you like to modify product quantity in the cart?\nInput integer number of servings you wish 0 to remove completely.",
+                            //    parseMode: ParseMode.Html,
+                            //    replyMarkup: KbdMaker.InKeyboard(CommandNames.SystemKbd));
                             return;
                     }
                 }

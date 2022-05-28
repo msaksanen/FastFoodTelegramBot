@@ -12,7 +12,7 @@ namespace FastFoodTelegramBot.Init
     {
         public static void ProductInit()
         {
-            Sushi[] sushi = new Sushi[20];
+            Product[] sushi = new Product[20];
             sushi[0] = new()
             {
                 CategoryCmd = "/sushi-classic",
@@ -20,7 +20,7 @@ namespace FastFoodTelegramBot.Init
                 Description = "Сливочный сыр, огурец, лосось, кунжут.",
                 GeneralCategory = "sushi",
                 IsPromo = false,
-                MinLot = 8,
+                AddProperty="MinLot: 8 pcs.",
                 Name = "Roll Fish",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2022/04/Фиш-ролл-min.jpg",
                 Price = 8.0f,
@@ -34,7 +34,7 @@ namespace FastFoodTelegramBot.Init
                 Description = "Креветки в темпуре, сливочный сыр, соус манго-чили, укроп.",
                 IsPromo = false,
                 GeneralCategory = "sushi",
-                MinLot = 8,
+                AddProperty = "MinLot: 8 pcs.",
                 Name = "Roll Shrimp",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2022/04/Штрим-ролл-min.jpg",
                 Price = 9,
@@ -48,7 +48,7 @@ namespace FastFoodTelegramBot.Init
                 Description = "Нори, рис, сливочный сыр, огурец, сёмга.",
                 IsPromo = false,
                 GeneralCategory = "sushi",
-                MinLot = 8,
+                AddProperty = "MinLot: 8 pcs.",
                 Name = "Roll Philadelphia",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2021/09/филадельфия.jpg",
                 Price = 12.9f,
@@ -62,7 +62,7 @@ namespace FastFoodTelegramBot.Init
                 Description = "Нори, рис, сливочный сыр, лосось, лист салата, тобико.",
                 IsPromo = false,
                 GeneralCategory = "sushi",
-                MinLot = 8,
+                AddProperty = "MinLot: 8 pcs.",
                 Name = "Gurme Maki",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2021/09/гурме-маки.jpg",
                 Price = 9.9f,
@@ -76,7 +76,7 @@ namespace FastFoodTelegramBot.Init
                 Description = "Нори, рис, сливочный сыр, икра тобико, лосось-терияки, огурец и соус чили.",
                 IsPromo = false,
                 GeneralCategory = "sushi",
-                MinLot = 8,
+                AddProperty = "MinLot: 8 pcs.",
                 Name = "Yakudza",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2021/09/якудзе.jpg",
                 Price = 9.9f,
@@ -90,7 +90,7 @@ namespace FastFoodTelegramBot.Init
                 Description = "Копчённый кальмар, дайкон, сливочный сыр, укроп, фирменная сырная шапочка.",
                 IsPromo = false,
                 GeneralCategory = "sushi",
-                MinLot = 8,
+                AddProperty = "MinLot: 8 pcs.",
                 Name = "Roll Boshi",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2022/04/Ролл-БОШИ-min.jpg",
                 Price = 6f,
@@ -104,7 +104,7 @@ namespace FastFoodTelegramBot.Init
                 Description = "Нори, рис, лосось терияки, авокадо, фирменная сырная шапка.",
                 IsPromo = false,
                 GeneralCategory = "sushi",
-                MinLot = 8,
+                AddProperty = "MinLot: 8 pcs.",
                 Name = "Roll Grill",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2021/09/запечённый-гриль.jpg",
                 Price = 10.8f,
@@ -118,7 +118,7 @@ namespace FastFoodTelegramBot.Init
                 Description = "Нори, рис, копчёная курица, перец, фирменная сырная шапочка и соус чили.",
                 IsPromo = false,
                 GeneralCategory = "sushi",
-                MinLot = 8,
+                AddProperty = "MinLot: 8 pcs.",
                 Name = "Roll Dynamit",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2021/09/запечённый-динамит.jpg",
                 Price = 6.9f,
@@ -132,7 +132,7 @@ namespace FastFoodTelegramBot.Init
                 Description = "Снежный краб, персик, кляр темпура, воздушная сырная шапочка, соус чили.",
                 IsPromo = false,
                 GeneralCategory = "sushi",
-                MinLot = 8,
+                AddProperty = "MinLot: 8 pcs.",
                 Name = "Roll Hotto",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2022/04/Ролл-ХОТТО-min.jpg",
                 Price = 7f,
@@ -146,7 +146,7 @@ namespace FastFoodTelegramBot.Init
                 Description = "Нори, рис, сливочный сыр, мидии, огурец, темпура.",
                 IsPromo = false,
                 GeneralCategory = "sushi",
-                MinLot = 8,
+                AddProperty = "MinLot: 8 pcs.",
                 Name = "Roll Tempura Midia",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2021/09/темпура-мидия.jpg",
                 Price = 6.5f,
@@ -160,7 +160,7 @@ namespace FastFoodTelegramBot.Init
                 Description = "Нори, рис, копчёная курица, перец, сливочный сыр, темпура",
                 IsPromo = false,
                 GeneralCategory = "sushi",
-                MinLot = 8,
+                AddProperty = "MinLot: 8 pcs.",
                 Name = "Roll Tempura Chicken",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2021/09/темпура-чикен.jpg",
                 Price = 8.7f,
@@ -174,7 +174,7 @@ namespace FastFoodTelegramBot.Init
                 Description = "Нори, рис, сёмга, сливочный сыр, темпура",
                 IsPromo = false,
                 GeneralCategory = "sushi",
-                MinLot = 8,
+                AddProperty = "MinLot: 8 pcs.",
                 Name = "Roll Tempura Siake",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2021/09/темпура-сяке.jpg",
                 Price = 9.3f,
@@ -188,7 +188,7 @@ namespace FastFoodTelegramBot.Init
                 Description = "Состав: (по 4 шт) Гурме Маки, Чука маки, Криль ролл, Царский ролл",
                 IsPromo = false,
                 GeneralCategory = "sushi",
-                MinLot = 16,
+                AddProperty = "MinLot: 16 pcs.",
                 Name = "Set №1",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2021/09/сет-1.jpg",
                 Price = 21f,
@@ -201,7 +201,7 @@ namespace FastFoodTelegramBot.Init
                 Description = "Состав: (по 4 шт) Грин ролл, Чикен ролл, Филадельфия, Филадельфия люкс",
                 IsPromo = false,
                 GeneralCategory = "sushi",
-                MinLot = 16,
+                AddProperty = "MinLot: 16 pcs.",
                 Name = "Set №2",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2021/09/сет-2.jpg",
                 Price = 22f,
@@ -215,7 +215,7 @@ namespace FastFoodTelegramBot.Init
                 Description = "Состав: (по 4 шт) Гурме Маки, Сяке Маки, Шеф ролл, Якудза ролл",
                 IsPromo = false,
                 GeneralCategory = "sushi",
-                MinLot = 16,
+                AddProperty = "MinLot: 16 pcs.",
                 Name = "Set №3",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2021/09/сет-3.jpg",
                 Price = 20f,
@@ -229,7 +229,7 @@ namespace FastFoodTelegramBot.Init
                 Description = "Состав: (по 4 шт) Запечённый «Динамит», Запеченный «Гриль», Запеченный ролл «Шанхай», Запеченный ролл «Медея»",
                 IsPromo = false,
                 GeneralCategory = "sushi",
-                MinLot = 16,
+                AddProperty = "MinLot: 16 pcs.",
                 Name = "Set №4",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2021/09/сет-4.jpg",
                 Price = 15f,
@@ -243,7 +243,7 @@ namespace FastFoodTelegramBot.Init
                 Description = "Состав: (по 4 шт) Темпура «Мидия», Темпура «Эби», Темпура  «Сяке», Темпура «Чикен»",
                 IsPromo = false,
                 GeneralCategory = "sushi",
-                MinLot = 16,
+                AddProperty = "MinLot: 16 pcs.",
                 Name = "Set №5",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2021/09/сет-5.jpg",
                 Price = 17f,
@@ -402,7 +402,7 @@ namespace FastFoodTelegramBot.Init
                 Weight = 100
             };
 
-            Drink[] drinks = new Drink[20];
+            Product[] drinks = new Product[20];
 
             drinks[0] = new()
             {
@@ -413,7 +413,7 @@ namespace FastFoodTelegramBot.Init
                 Name = "BonAqua",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2021/09/Снимок-экрана-2021-08-31-в-11.52-4-1.png",
                 Price = 2f,
-                Volume = 500,
+                AddProperty = "Volume: 0.5L",
                 Weight = 500
             };
 
@@ -426,7 +426,7 @@ namespace FastFoodTelegramBot.Init
                 Name = "Coca-cola",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2021/09/Снимок-экрана-2021-08-31-в-11.52-1-2.png",
                 Price = 3f,
-                Volume = 500,
+                AddProperty = "Volume: 0.5L",
                 Weight = 500
             };
 
@@ -439,7 +439,7 @@ namespace FastFoodTelegramBot.Init
                 Name = "Fanta",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2021/09/Снимок-экрана-2021-08-31-в-11.52-3-1-1.png",
                 Price = 3f,
-                Volume = 500,
+                AddProperty = "Volume: 0.5L",
                 Weight = 500
             };
 
@@ -452,7 +452,7 @@ namespace FastFoodTelegramBot.Init
                 Name = "Sprite",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2021/09/Снимок-экрана-2021-08-31-в-11.52-2-1.png",
                 Price = 3f,
-                Volume = 500,
+                AddProperty = "Volume: 0.5L",
                 Weight = 500
             };
 
@@ -465,11 +465,11 @@ namespace FastFoodTelegramBot.Init
                 Name = "Schweppes",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2021/09/Снимок-экрана-2021-08-31-в-11.52-2-1-1.png",
                 Price = 3.2f,
-                Volume = 500,
+                AddProperty = "Volume: 0.5L",
                 Weight = 500
             };
 
-            Pizza[] pizzas = new Pizza[20];
+            Product[] pizzas = new Product[20];
 
             pizzas[0] = new()
             {
@@ -480,7 +480,7 @@ namespace FastFoodTelegramBot.Init
                 GeneralCategory = "pizza",
                 Name = "Pepperoni",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2021/10/new-пепперони-min.jpg",
-                Diameter = 25,
+                AddProperty = "Diameter: 25 cm",
                 Price = 11.5f,
                 Weight = 410,
                 ShowPicInCat = 1
@@ -495,7 +495,7 @@ namespace FastFoodTelegramBot.Init
                 GeneralCategory = "pizza",
                 Name = "Pepperoni",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2021/10/new-пепперони-min.jpg",
-                Diameter = 35,
+                AddProperty = "Diameter: 35 cm",
                 Price = 15.5f,
                 Weight = 800,
                 ShowPicInCat = 0
@@ -510,7 +510,7 @@ namespace FastFoodTelegramBot.Init
                 GeneralCategory = "pizza",
                 Name = "Pepperoni",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2021/10/new-пепперони-min.jpg",
-                Diameter = 50,
+                AddProperty = "Diameter: 50 cm",
                 Price = 27.5f,
                 Weight = 1440,
                 ShowPicInCat = 0
@@ -525,7 +525,7 @@ namespace FastFoodTelegramBot.Init
                 GeneralCategory = "pizza",
                 Name = "Philippine",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2021/10/new-филиппинская_Монтажная-область-1-min.jpg",
-                Diameter = 25,
+                AddProperty = "Diameter: 25 cm",
                 Price = 11.5f,
                 Weight = 400,
                 ShowPicInCat = 1,
@@ -540,7 +540,7 @@ namespace FastFoodTelegramBot.Init
                 GeneralCategory = "pizza",
                 Name = "Philippine",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2021/10/new-филиппинская_Монтажная-область-1-min.jpg",
-                Diameter = 35,
+                AddProperty = "Diameter: 35 cm",
                 Price = 22.5f,
                 Weight = 800,
                 ShowPicInCat = 0
@@ -555,7 +555,7 @@ namespace FastFoodTelegramBot.Init
                 GeneralCategory = "pizza",
                 Name = "Philippine",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2021/10/new-филиппинская_Монтажная-область-1-min.jpg",
-                Diameter = 50,
+                AddProperty = "Diameter: 50 cm",
                 Price = 32.5f,
                 Weight = 1400,
                 ShowPicInCat = 0
@@ -570,7 +570,7 @@ namespace FastFoodTelegramBot.Init
                 GeneralCategory = "pizza",
                 Name = "Texas",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2021/10/new-техасская-02-min.jpg",
-                Diameter = 25,
+                AddProperty = "Diameter: 25 cm",
                 Price = 11.5f,
                 Weight = 400,
                 ShowPicInCat = 1
@@ -585,7 +585,7 @@ namespace FastFoodTelegramBot.Init
                 GeneralCategory = "pizza",
                 Name = "Texas",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2021/10/new-техасская-02-min.jpg",
-                Diameter=35,
+                AddProperty = "Diameter: 35 cm",
                 Price = 23f,
                 Weight = 800,
                 ShowPicInCat = 0
@@ -600,7 +600,7 @@ namespace FastFoodTelegramBot.Init
                 GeneralCategory = "pizza",
                 Name = "Texas",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2021/10/new-техасская-02-min.jpg",
-                Diameter = 50,
+                AddProperty = "Diameter: 50 cm",
                 Price = 35f,
                 Weight = 1400,
                 ShowPicInCat = 0
@@ -615,7 +615,7 @@ namespace FastFoodTelegramBot.Init
                 GeneralCategory = "pizza",
                 Name = "Italian",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2021/10/new-итальянская-min.jpg",
-                Diameter = 25,
+                AddProperty = "Diameter: 25 cm",
                 Price = 12.5f,
                 Weight = 400,
                 ShowPicInCat = 1
@@ -630,7 +630,7 @@ namespace FastFoodTelegramBot.Init
                 GeneralCategory = "pizza",
                 Name = "Italian",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2021/10/new-итальянская-min.jpg",
-                Diameter=35,
+                AddProperty = "Diameter: 35 cm",
                 Price = 17.5f,
                 Weight = 800,
                 ShowPicInCat = 0
@@ -645,7 +645,7 @@ namespace FastFoodTelegramBot.Init
                 GeneralCategory = "pizza",
                 Name = "Italian",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2021/10/new-итальянская-min.jpg",
-                Diameter = 50,
+                AddProperty = "Diameter: 50 cm",
                 Price = 29.5f,
                 Weight = 1500,
                 ShowPicInCat = 0
@@ -660,7 +660,7 @@ namespace FastFoodTelegramBot.Init
                 GeneralCategory = "pizza",
                 Name = "Philadelphia",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2021/10/new-филадельфия-min.jpg",
-                Diameter=25,
+                AddProperty = "Diameter: 25 cm",
                 Price = 12.5f,
                 Weight = 400,
                 ShowPicInCat = 1
@@ -675,7 +675,7 @@ namespace FastFoodTelegramBot.Init
                 GeneralCategory = "pizza",
                 Name = "Philadelphia",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2021/10/new-филадельфия-min.jpg",
-                Diameter=35,
+                AddProperty = "Diameter: 35 cm",
                 Price = 18.5f,
                 Weight = 800,
                 ShowPicInCat = 0
@@ -690,25 +690,25 @@ namespace FastFoodTelegramBot.Init
                 GeneralCategory = "pizza",
                 Name = "Philadelphia",
                 PictureURL = "https://sushidom.by/wp-content/uploads/2021/10/new-филадельфия-min.jpg",
-                Diameter = 50,
+                AddProperty = "Diameter: 50 cm",
                 Price = 31.5f,
                 Weight = 1400,
                 ShowPicInCat = 0
             };
 
-            foreach (Sushi item in sushi)
+            foreach (var item in sushi)
             {
                 if (item != null)
                     ProductListRepository<Product>.Repos.Add(item);
             }
 
-            foreach (Drink item in drinks)
+            foreach (var item in drinks)
             {
                 if (item != null)
                     ProductListRepository<Product>.Repos.Add(item);
             }
 
-            foreach (Pizza item in pizzas)
+            foreach (var item in pizzas)
             {
                 if (item != null)
                     ProductListRepository<Product>.Repos.Add(item);
